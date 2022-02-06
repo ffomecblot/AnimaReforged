@@ -8,16 +8,13 @@ The system provides character sheet and some game mechanic support such as manag
 
 Right now, we are only supporting the Spanish compendia, but, we love all the community support, so, if you want to translate or create your compendium and propose it to the system, here you can do it.
 
-## Community Contribution
 
-As we said before, we love community support, so if you have some system improvement, bug, idea, or code improvement, we are all ears. Here you can add all of it.
+## Liens
 
-## Links
+- [Anima Reforged](https://sites.google.com/view/anima-reforged/accueil): Notre google-site Anima
+- [Tuto FoundryVTT](https://foundryvtt.com/kb/): Sur le site de Foundry
 
-- [Anima Project Studio](https://twitter.com/animaps): Official Twitter
-- [Anima a través de la red](https://discord.gg/GK58q7a): Spanish discord community of Anima Beyond Fantasy
-- [Anima Beyond Fantasy International](https://discord.gg/Avt8ebP): The international discord community of Anima Beyond Fantasy
 
-## Develop instructions
+## Instructions de développement
 
-- [Spanish](docs/develop/es/es.md)
+- [Français](docs/develop/fr/fr.md)
