@@ -1,15 +1,14 @@
-# Anima Beyond Fantasy - Foundry VTT
+# Système Anima pour Foundry VTT
 
-This is the unofficial system for Anima Beyond Fantasy for Foundry VTT, developed with the knowledge and agreement of Anima Project Studio.
+Le système de jeu Anima Beyond Fantasy, modifié par nos soins.
 
-The system provides character sheet and some game mechanic support such as managed combat support or other minimum character sheet automation. Also, provides dice mechanics and some compendia like:
+Il contient concrètement :
+- un template de feuille de personnage, qu'il va falloir mettre sauvagement à jour,
+- un outil de résolution de combat, qui a l'avantage d'être interactif MJ/Joueurs,
+- un "compendium" des armes, armures et sorts ... en espagnol ... et en v1, donc qu'il va aussi falloir mettre sauvagement à jour.
 
-- (ES) Weapons, Armors and Magic
 
-Right now, we are only supporting the Spanish compendia, but, we love all the community support, so, if you want to translate or create your compendium and propose it to the system, here you can do it.
-
-
-## Liens
+## Liens utiles
 
 - [Anima Reforged](https://sites.google.com/view/anima-reforged/accueil): Notre google-site Anima
 - [Tuto FoundryVTT](https://foundryvtt.com/kb/): Sur le site de Foundry
@@ -17,4 +16,4 @@ Right now, we are only supporting the Spanish compendia, but, we love all the co
 
 ## Instructions de développement
 
-- [Français](docs/develop/fr/fr.md)
+- [Français](docs/develop/fr/fr.md) sauvagement google-traduit et à mettre à jour
