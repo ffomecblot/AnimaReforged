@@ -1,8 +1,8 @@
-# Añadir un nuevo item al actor
+# Ajouter un nouvel élément à l'acteur
 
-A veces queremos que un campo del actor sea dinámico, es decir, que queramos añadir, editar y eliminar ciertos elementos como por ejemplo las posibles armas que lleve el personaje o los hechizos aprendidos. Para ello recopilo aquí los pasos a realizar para añadir un nuevo tipo de elemento (llamado **Items** en Foundry VTT) a nuestro actor:
+Parfois, on veut qu'un champ d'acteur soit dynamique, c'est-à-dire qu'on veuille ajouter, éditer et supprimer certains éléments comme d'éventuelles armes portées par le personnage ou des sorts appris. Pour cela, je compile ici les étapes pour ajouter un nouveau type d'élément (appelé **Items** dans Foundry VTT) à notre acteur : 
 
-## Pasos
+## pas à suivre
 
 ### 1. Decidir si el elemento es interno o externo
 
