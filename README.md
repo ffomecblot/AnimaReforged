@@ -10,10 +10,10 @@ Il contient concrètement :
 
 ## Liens utiles
 
-- [Anima Reforged](https://sites.google.com/view/anima-reforged/accueil): Notre google-site Anima
-- [Tuto FoundryVTT](https://foundryvtt.com/kb/): Sur le site de Foundry
+- [Anima Reforged](https://sites.google.com/view/anima-reforged/accueil) : Notre google-site Anima, duquel j'aimerais rappatrier un maximum de trucs pour qu'on en ai moins besoin.
+- [Tuto FoundryVTT](https://foundryvtt.com/kb/) : Plein de doc sur le site de Foundry.
 
 
 ## Instructions de développement
 
-- [Français](docs/develop/fr/fr.md) sauvagement google-traduit et à mettre à jour
+- [En français](docs/develop/fr/fr.md), sauvagement google-traduit et à mettre à jour.
