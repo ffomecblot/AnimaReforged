@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "anima-beyond-foundry",
-  "version": "1.13.0",
-  "description": "Unofficial Anima Beyond Fantasy system for Foundry VTT",
+  "name": "anima-reforged",
+  "version": "1.0.0",
+  "description": "Anima pour nous",
   "scripts": {
     "build": "gulp build",
     "build:watch": "gulp watch",
